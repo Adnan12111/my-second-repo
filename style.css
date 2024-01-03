@@ -1,6 +1,57 @@
-div{
-    background-color: blueviolet;
-    font-size: 20px;
-    margin: 22px;
-    padding: 12px;
+
+.contain{
+    
+        margin: auto;
+        width: 50%;
+        border: 3px solid green;
+        padding: 10px;
+        text-align: center;
+      
+
+    
+    
+}
+
+
+
+.hading{
+    color: rgb(16, 116, 224);
+    text-align: center;
+}
+.mail{
+    margin-bottom: 12px;
+    border-radius: 2px;
+    border: 1px solid gray;
+    padding-right: 45px;
+}
+.pass{
+    margin-bottom: 12px;
+    border-radius: 2px;
+    border: 1px solid gray;
+    padding-right: 45px;
+}
+.login{
+    margin-bottom: 12px;
+    background-color: rgb(16, 116, 224);
+    padding-left: 77px;
+    padding-right: 77px;
+    padding-bottom: 7px;
+    padding-top: 7px;
+    border: 0px;
+    border-radius: 4px;
+    color: white;
+    
+}
+.create{
+    margin-bottom: 12px;
+    border-radius: 5px;
+    border: 0px solid rgb(18, 255, 97);
+    background-color: rgb(10, 160, 60) ;
+    color: white;
+    padding: 10px 10px 10px 10px;
+    
+}
+hr{
+    width: 300px; 
+    margin-top: 20px;
 }
